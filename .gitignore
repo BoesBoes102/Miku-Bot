@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# Virtual environment
+venv/
+env/
+
+# macOS metadata
+.DS_Store
+
+# PyCharm settings
+.idea/
+
+# Log files
+*.log
+
+# User data / persistent storage
+data.json
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Test results
+.coverage
+.cache
+.tox
+.pytest_cache/
+
+# Pip dependency file logs
+pip-log.txt
+
+# Jupyter Notebook chec
